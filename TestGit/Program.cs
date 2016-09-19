@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             var a = 5;
+            var b = 7;
         }
     }
 }
